@@ -63,6 +63,8 @@ classes
     border-top: .5rem solid #E5B72F;
     margin-bottom: 10rem;
     transition: .5s;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 .class:hover {
     transform: scale(1.05);
@@ -93,6 +95,8 @@ classes
     padding:2rem;
     display: flex;
     justify-content: space-evenly;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 .class-footer span {
     font-size: 2rem;
